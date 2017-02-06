@@ -1,0 +1,9 @@
+!SESSION 2017-01-31 07:51:24.290 -----------------------------------------------
+eclipse.buildId=4.5.0-vfinal-2016-12-13T10:59:29Z-Typesafe
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.scala-ide.sdt.core 1 0 2017-01-31 08:13:05.606
+!MESSAGE Timeout while resolving hyperlink in /home/cw/Documents/MS_Azure/GLIM/SparkStreaming/src/com/glimpgpbabi/sparkstreaming/PrintTweets.scala at: offset: 186, length: 0
